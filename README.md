@@ -1,5 +1,5 @@
 # Project
-Unite! Blended Intensive Program on Communications engineering and data science. Learn about Communications and Data Science for industrial applications in this advanced bachelor's and master's level Erasmus+ Blended Intensive Program which will combine online learning at your home university and in-campus work at Aalto University Summer School. The application period ends on the 15th of May 2023.
+Unite! Blended Intensive Program on Communications engineering and data science. Learn about Communications and Data Science for industrial applications in this advanced bachelor's and master's level Erasmus+ Blended Intensive Program which will combine online learning at your home university and in-campus work at Aalto University Summer School. The Duration is 21st August to 1st September.
 
 We did a project in a week based on the project MIRAS_IMU_Analysis_2022. 
 
