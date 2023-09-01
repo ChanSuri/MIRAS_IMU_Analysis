@@ -11,10 +11,11 @@ This directory contains the second part of the MIRAS IMU analysis done from 08.0
 
 ## Data
 
-The collected data can be found in the *data* directory. 
+We simplified the raw data by using only one sensor on the arm and extract 4 patients data.
 
-In this directory the data of 11 control subjects (A, B, C, D, E, F, G, H, I, J, K) can be found. From the left-handed subject G, data was collected from his right arm (GR) and his left arm (GL).
-Further, the *draft* directory can be copied for collecting new data, since it contains the necessary structure and files for easy usage with the python scripts. There are also some additional directories (test, test_2, test_3) containing different test measurements of the sensors.
+Raw data:
+Data was collected from his right arm (GR) and his left arm (GL).
+Further, the *draft* directory can be copied for collecting new data, since it contains the necessary structure and files for easy usage with the python scripts. 
 
 In each directory there are:
 
